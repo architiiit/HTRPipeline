@@ -1,5 +1,5 @@
 import numpy as np
-
+# import tensorflow as tf
 
 def compute_iou(ra, rb):
     """intersection over union of two axis aligned rectangles ra and rb"""

@@ -2,7 +2,7 @@ from collections import defaultdict
 
 import numpy as np
 from sklearn.cluster import DBSCAN
-
+# import tensorflow as tf
 from .aabb import AABB
 from .iou import compute_dist_mat
 

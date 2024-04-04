@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 from .aabb import AABB
-
+# import tensorflow as tf
 
 class MapOrdering:
     """order of the maps encoding the aabbs around the words"""
